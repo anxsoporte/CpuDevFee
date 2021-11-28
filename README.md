@@ -1,7 +1,7 @@
 # CpuDevFee
 Some miners charge a slightly high fee.
-Profitability lowers us a lot for those of us who handle a small Hash and the investments of the miners are very high and the recovery time grows.
-To compensate for this a bit, we have made this patch to set the commission to 0.5% in the Cpuminer miner for Raptoreum.
+The investments of the miners are very high and the recovery time grows.
+To compensate, we have made this patch to set the commission to 0.5% in the Cpuminer miner for Raptoreum.
 
 Cpuminer currently charges 1.75% and adjusts it to 0.5%.
 
